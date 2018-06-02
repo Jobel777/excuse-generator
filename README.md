@@ -87,3 +87,4 @@ To include images, styles or any other type of file just use the **import** comm
 
 2. The HTML code must be inside public/bundle/index.html
 # excuse-generator
+# excuse-generator
